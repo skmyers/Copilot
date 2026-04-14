@@ -17,19 +17,20 @@ You are supporting preparation for my weekly Microsoft business development meet
 Create a powerpoint presentation that provides comparison between the older file as the "Previous Week" report and the newest file  as the "Current Week" report, use the numbers at the beginning of the file name as the indicator of the dates. 
 
 
-## Scheduling Requirement
+//## Scheduling Requirement
 
-Run this report automatically:
-- **Every Tuesday at 5:05 AM Eastern Time**
+//Run this report automatically:
+//- **Every Tuesday at 5:05 AM Eastern Time**
 
-Each weekly run should report on:
-- Changes since last week
-- week over week analysis
-- new opportunities
-- category by business unit
-- list opportunities count,  estimated revenue, and business units aligned
+//Each weekly run should report on:
+//- Changes since last week
+//- week over week analysis
+//- new opportunities
+//- category by business unit
+//- list opportunities count,  estimated revenue, and business units aligned
 
-# Additionally, provide a breakdown of these categories and show the opportunity names, business units, and revenue based on the following sections: 
+Provide a breakdown of these categories and show the opportunity names, business units, and revenue based on the following sections: 
+
 ## Section 1: Copilot + Agents 
 list all opportunity names, business units, and revenue, and stage that contain the following keywords:
 - Copilot
@@ -55,7 +56,44 @@ Then generate:
 - Updated Executive Summary
 - Updated PowerPoint Presentation
 
-**Saved under:** my OneDrive MSFT_WeeklyBDUpdates folder
+**Saved under:** my OneDrive MSFT_Executive_Reports folder
+
+
+## Deliverables to Generate
+
+### A. Executive Summary
+
+Concise 1-page leadership summary of:
+
+- Opportunities per Primary Service Offering
+- Estimated revenue
+- Changes since last week
+
+### B. PowerPoint Presentation
+
+**Title:** Weekly Microsoft Pipeline Briefing
+
+Include slides for:
+
+- Microsoft Pipeline
+- Pipeline by Primary Service Offering
+- Copilot + Agents
+- Security for AI
+- Copilot/AI Readiness
+- MSP + Licenses
+- Fabric
+- Data Governance
+
+**Saved under:** my OneDrive MSFT_Executive_Reports folder
+
+### C. HTML Executive Review Presentation
+
+Mirror PowerPoint content for browser-based review.
+
+**Save in same folder.**
+
+---
+
 
 ---
 
@@ -63,11 +101,11 @@ Then generate:
 
 After generating all outputs, send an email with:
 
-**Subject:** Weekly MSFT Pipeline Summary
+**Subject:** Weekly Microsoft Pipeline Briefing
 
 **To:**
 - karina.myers@centricconsulting.com
 
 **Body:**
 - Include the Executive Summary
-- Include a note that the full PowerPoint have been created and saved under my OneDrive MCP_WeeklyBDUpdates folder
+- Include a note that the full PowerPoint have been created and saved under my OneDrive MSFT_Executive_Reports folder
