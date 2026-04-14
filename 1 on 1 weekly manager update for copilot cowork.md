@@ -59,9 +59,7 @@ Identify and summarize:
 
 ## Section 1: Portfolio Activity Summary
 
-Focus on customer-facing activity tied to accounts including:
-
-> [customer names here]
+Focus on customer-facing activity grouped by customer names
 
 Also identify any new accounts appearing in communications.
 
@@ -74,7 +72,7 @@ For each account where activity occurred, summarize:
 - Licensing or governance discussions
 - Workshops or briefings led
 - Risks surfaced or mitigated
-
+- Go to Market initiatives supported or initiated
 ---
 
 ## Section 2: External Customer Commitments
@@ -87,6 +85,7 @@ List anything I committed to delivering externally:
 - Architecture support
 - Copilot or Agent workshops
 - Executive briefings
+- proposals or SOW drafting
 
 Include:
 
@@ -101,7 +100,7 @@ Include:
 
 Identify actions where I supported:
 
-- Other Microsoft sellers
+- Other sellers
 - Specialists
 - Architects
 - CSMs
@@ -148,39 +147,14 @@ Note where information is missing.
 
 ---
 
-## Section 6: Copilot Adoption Risk Signals
-
-Across assigned healthcare tenants, flag:
-
-- Declining Copilot Chat usage
-- Departments below 20% Copilot activation
-- Licenses assigned with no usage
-- Active Chat but stagnant Premium usage
-- Rollouts stalled after pilot phase
-
-For each flagged account, summarize in 5 bullets:
-
-- **Account Name**
-- **Risk Level** (Low / Medium / High)
-- **Likely Adoption Blocker**
-- **Growth Risk**
-- **Recommended Intervention**
-
-Also indicate where I should:
-
-- Provide executive support
-- Coach account team
-- Coach Copilot specialist
-- Engage security or compliance stakeholders
-
----
-
 ## Manager 1:1 Executive Output
 
 ### Impact
 
 Summarize:
 
+- Proposals or SOWs drafted or updated
+- Business Development calls for new opportunities
 - Customer outcomes influenced
 - Adoption momentum created
 - Governance or licensing clarity enabled
@@ -218,7 +192,7 @@ Outline:
 - Adoption support activity
 - Internal coordination required
 - Deadlines requiring leadership awareness
-
+- SOWs or Proposals being worked on
 ---
 
 ## Deliverables to Generate
@@ -245,7 +219,6 @@ Include slides for:
 - Internal Support Contributions
 - Pending Responses
 - Risks or Blockers
-- Copilot Adoption Risk Signals
 - Impact
 - Challenges
 - Decisions Required
@@ -297,8 +270,7 @@ After generating all outputs, send an email with:
 **Subject:** Weekly Manager 1:1 Field Impact Readout
 
 **To:**
-- `[Your email here]`
-- `[Manager email here]`
+- `karina.myers@centricconsulting.com
 
 **Body:**
 - Include the Executive Summary
