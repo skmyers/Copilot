@@ -34,14 +34,12 @@ Review the past 7 days across:
 
 Identify and summarize:
 
-1. Work I directly delivered for my assigned healthcare accounts
+1. Work I directly delivered for various accounts
 2. Impact I created by supporting:
-   - Other Microsoft specialists
+   - Business Units
    - Account Executives
-   - CSMs
    - Architects
-   - Copilot Specialists
-   - Field teammates
+   - Sales Team
    - Their customer engagements or accounts
 3. Strategic influence or unblockers I contributed to:
    - Adoption
@@ -49,19 +47,19 @@ Identify and summarize:
    - Governance alignment
    - Use case development
    - Executive alignment
-   - AI / Copilot rollout readiness
+   - AI / Copilot pursuits
 
 **Do NOT include:**
 
 - Meetings where I did not actively contribute
-- Generic email win wires not tied to my involvement
+- Generic email not tied to my involvement
 - Passive attendance without impact
 
 ---
 
 ## Section 1: Portfolio Activity Summary
 
-Focus on customer-facing activity tied to healthcare accounts including:
+Focus on customer-facing activity tied to accounts including:
 
 > [customer names here]
 
