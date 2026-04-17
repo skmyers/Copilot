@@ -19,6 +19,8 @@ After generating all outputs, send an email with:
 **Subject:** Weekly MCP Pipeline Summary
 **To:**
 - karina.myers@centricconsulting.com
+- clarence.garner@centricconsulting.com
+- barry
 
 **Body:**
 - Include the Summary
