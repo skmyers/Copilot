@@ -1,10 +1,12 @@
 ## Prompt
 You are supporting preparing for our weekly business development meeting. Go through my MCP_Reports folder in my OneDrive to analyze the following:
 - Changes since last week
+- new opportunities, include opportunity names, estimated revenue, business unit
 - week over week analysis
-- new opportunities
-- category by business unit
-- list opportunities count,  estimated revenue, and business units aligned which topic name contain the keywords Copilot, Agents, Adoption, SharePoint, Security, Migration, Managed Services, Any other topic names can be put under category "Other"
+- removed opportunities include opportunity names, estimated revenue, business unit
+- opportunities by business unit
+- list opportunity names, opportunities count,  estimated revenue, and business units
+- list opportunities that are older than 1 month, 3 months, 6 months, 12 months
 
 ## Deliverables to Generate
 Create an Executive summary that includes this information.
