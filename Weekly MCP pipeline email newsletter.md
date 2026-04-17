@@ -12,7 +12,7 @@ You are supporting preparing for our weekly business development meeting. Go thr
 Create an Executive summary that includes this information.
 Create an html summary for browser-based review that provides comparison between the older file as the "Previous Week" report and the newest file  as the "Current Week" report, use the numbers at the beginning of the file name as the indicator of the dates. 
 
-**Saved under:** my OneDrive MCP_Reports folder
+**Saved under:** my OneDrive MCP_Reports > MCP_ExecReports folder
 
 ## Final Step: Email Delivery
 After generating all outputs, send an email with:
@@ -29,4 +29,4 @@ After generating all outputs, send an email with:
 
 **Body:**
 - Include the Summary
-- Include a note that the full html has been created and saved under OneDrive MCP_Reports folder
+- Include a note that the full html has been created and saved under OneDrive MCP_Reports > MCP_ExecReports folder
