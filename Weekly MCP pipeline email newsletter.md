@@ -10,6 +10,8 @@ You are supporting preparing for our weekly business development meeting. Go thr
 Create an Executive summary that includes this information.
 Create an html summary for browser-based review that provides comparison between the older file as the "Previous Week" report and the newest file  as the "Current Week" report, use the numbers at the beginning of the file name as the indicator of the dates. 
 
+**Saved under:** MS Teams > Microsoft Cloud Platforms > General channel > _MCPReports folder
+
 ## Final Step: Email Delivery
 After generating all outputs, send an email with:
 **Subject:** Weekly MCP Pipeline Summary
