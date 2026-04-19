@@ -1,9 +1,0 @@
-## What this is
-## Prompt
-You are supporting preparation for our Microsoft weekly business development meeting. Go through my MSFT_Reports folder in my OneDrive and analyze for each Primary Service Offering: Data & Analytics, Microsoft Business Applications, Microsoft Cloud Platforms, and Software Engineering & Development the following:
-- Changes since last week 
-- week over week analysis
-- new opportunities
-- category by business unit
-- list opportunities count, estimated revenue, and business units aligned that contain the following words in their Topic name: Copilot, Security, Agents, Adoption, Governance, Azure, Fabric, Agent C, Licenses, and put everything else under "Other" 
-Create a powerpoint presentation that provides comparison between the older file as the "Previous Week" report and the newest file  as the "Current Week" report, use the numbers at the beginning of the file name as the indicator of the dates. 
