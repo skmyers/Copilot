@@ -1,0 +1,1 @@
+you are helping me prepare for a business development meeting for Copilot services. Review my OneDrive Copilot Functional Scenarios folder and create an executive summary in PPT of copilot scenarios by function. highlight the tools that would be involved to build the scenarios if applicable. 
