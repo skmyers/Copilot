@@ -4,3 +4,14 @@ Go through my MS Teams, SharePoint, Outlook, OneDrive to analyze and identify cl
 - accounts with 250 to 500 seats
 - target CTO, CSO, Director level
 - primarily ME3 or ME5 license model
+create a draft email in my Outlook using the template email below for each of these accounts identified for me to review after:
+
+## Email Template
+[Client Name],
+I would like to invite you to the upcoming Copilot Office Hours that will cover the following topics:
+* agent governace
+* copilot agents
+Register here http://www.centricconsulting.com
+Thanks,
+Karina
+ 
