@@ -5,9 +5,10 @@ Cowork prompt to analyze all my MS Teams, SharePoint, Outlook, and OneDrive and 
 
 You are supporting a client outreach campaign for Copilot AI adoption and governance. Go through my MS Teams, SharePoint, Outlook, OneDrive to analyze and identify client accounts based on the following criteria:
 
-accounts with 25 to 250 Copilot seats
-accounts with 250 to 500 Copilot seats
-accounts with primarily ME3 or ME5 license model
+* accounts with 25 to 250 Copilot seats
+* accounts with 250 to 500 Copilot seats
+* accounts with primarily ME3 or ME5 license model
+
 Create a draft email in my Outlook using the template email below for each of these accounts identified for me to review after:
 
 ## Email template
