@@ -18,14 +18,7 @@ Create an html summary for browser-based review that provides comparison between
 After generating all outputs, send an email with:
 **Subject:** Weekly MCP Pipeline Summary
 **To:**
-- karina.myers@centricconsulting.com
-- clarence.garner@centricconsulting.com
-- barry.thompson@centricconsulting.com
-- ryan.charnock@centricconsulting.com
-- angela.olsen@centricconsulting.com
-- christopher.thompson@centricconsulting.com
-- byron.walters@centricconsulting.com
-- joe.hartsel@centricconsulting.com
+[email addresses]
 
 **Body:**
 - Include the Summary
