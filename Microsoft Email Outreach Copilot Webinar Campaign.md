@@ -3,11 +3,9 @@ Cowork prompt to analyze all my MS Teams, SharePoint, Outlook, and OneDrive and 
 
 ## Prompt
 
-You are supporting a client outreach campaign for Copilot AI adoption and governance. Go through my MS Teams, SharePoint, Outlook, OneDrive to analyze and identify client accounts based on the following criteria:
-
-* accounts with Copilot licenses assigned
+You are supporting a client outreach campaign for Copilot AI adoption and governance. Go through my MS Teams, SharePoint, Outlook, OneDrive to analyze and identify client accounts that have purchased Copilot licenses.
   
-Please use accounts that are associated to me per-account outreach task and create a draft email in my Outlook for each of these accounts using the template email below for me to review after:
+Please use the accounts that are associated to me per-account outreach task and create a draft email in my Outlook for each of these accounts using the template email below for me to review after.
 
 ## Email template
 
