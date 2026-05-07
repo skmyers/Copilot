@@ -13,7 +13,7 @@ Please use the accounts that are associated to me per-account outreach task and 
 
 I'd like to invite you to Centric Consulting's upcoming Webinar in their Office Hours Series: Microsoft Copilot Office Hours: Agent Governance Best Practices with Agent 365.
 
-Centric is a trusted partner that supports organizations with Microsoft Copilot readiness, training, skilling, and adoption.
+Centric is a trusted partner that supports organizations with Microsoft Copilot readiness, security and governance, training, skilling, and adoption.
 
 * Are you concerned about Copilot Studio use?
 * Worried about unexpected costs for agents?
