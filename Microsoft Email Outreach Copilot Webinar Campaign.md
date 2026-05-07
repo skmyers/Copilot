@@ -9,7 +9,7 @@ You are supporting a client outreach campaign for Copilot AI adoption and govern
 * accounts with 250 to 500 Copilot seats
 * accounts with primarily ME3 or ME5 license model
 
-Create a draft email in my Outlook using the template email below for each of these accounts identified for me to review after:
+Please use accounts that are associated to me per-account outreach task and create a draft email in my Outlook for each of these accounts using the template email below for me to review after:
 
 ## Email template
 
