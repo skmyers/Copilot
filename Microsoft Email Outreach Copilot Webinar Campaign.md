@@ -5,19 +5,24 @@ Cowork prompt to analyze all my MS Teams, SharePoint, Outlook, and OneDrive and 
 
 You are supporting a client outreach campaign for Copilot AI adoption and governance. Go through my MS Teams, SharePoint, Outlook, OneDrive to analyze and identify client accounts that have purchased Copilot licenses.
   
-Please use the accounts that are associated to me per-account outreach task and create a draft email addressed to their key contact emails in my Outlook for each of these accounts using the template email below for me to review after.
+Please use the accounts that are associated to me per-account outreach task and create a draft email including the following info:
+- address email to their key contact emails in my Outlook for each of these accounts
+- include the Microsoft solutions architect aligned to this account in the BCC line
+- include the attached file as attachment in the email
+- use the template email below for me to review after
+- include my personal outlook signature at the end of the email
 
 ## Email template
 
 [Client Name],
 
-I'd like to invite you to Centric Consulting's upcoming Webinar in their Office Hours Series: Microsoft Copilot Office Hours: Agent Governance Best Practices with Agent 365.
+I'd like to invite you to Centric Consulting's upcoming webinar in their Office Hours Series: Microsoft Copilot: Agent Governance Best Practices with Agent 365.
 
 Centric is a trusted partner that supports organizations with Microsoft Copilot readiness, security and governance, training, skilling, and adoption.
 
 * Are you concerned about Copilot Studio use?
 * Worried about unexpected costs for agents?
-* Are users deploying homemade agents to the whole organization?
+* Are users deploying custom agents to the whole organization?
 * Want a centralized place to review agents with a command center to block them?
 * Want to prevent the wild west of agents within your organization?
 
