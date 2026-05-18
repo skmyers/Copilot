@@ -7,7 +7,7 @@ You are supporting a client outreach campaign for Copilot AI adoption and govern
   
 Please use the accounts that are associated to me per-account outreach task and create a draft email including the following info:
 - address email to their key contact emails in my Outlook for each of these accounts
-- include the Microsoft solutions architect aligned to this account in the BCC line
+- include the Microsoft solutions architect aligned to this account in the CC line
 - include the attached file as attachment in the email
 - use the template email below for me to review after
 - include my personal outlook signature at the end of the email
